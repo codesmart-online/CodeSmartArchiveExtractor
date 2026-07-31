@@ -30,7 +30,7 @@
     <li>TAR.XZ (.tar.xz, .txz)</li>
 
 </ul>
-<p>Multi-part archive support</p>
+<p>Multi-part archive support:</p>
 <ul>
     <li>archive.part1.rar</li>
     <li>archive.part01.rar</li>
