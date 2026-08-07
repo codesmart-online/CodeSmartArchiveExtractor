@@ -35,7 +35,7 @@
 </ul>
 <p>Supports password protected archives</p>
 </p>
-
+<br>
 <p><strong>Compatibility:</strong><br>
 <ul>
     <li>Windows 11 (64 bit)</li>
