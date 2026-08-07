@@ -12,14 +12,6 @@
 </ul>
 </p>
 <br>
-<p><strong>Compatibility:</strong><br>
-<ul>
-    <li>Windows 11 (64 bit)</li>
-    <li>Windows 10 (32 and 64 bit)</li>
-    <li>Windows 8 / Windows 7 (Fully functional provided the .NET Framework 4.8 runtime is installed on the system).</li>
-</ul>
-</p>
-<br>
 <p><strong>Supported File Types and Formats</strong><br>
 <ul>
     <li>ZIP (.zip)</li>
@@ -43,6 +35,15 @@
 </ul>
 <p>Supports password protected archives</p>
 </p>
+
+<p><strong>Compatibility:</strong><br>
+<ul>
+    <li>Windows 11 (64 bit)</li>
+    <li>Windows 10 (32 and 64 bit)</li>
+    <li>Windows 8 / Windows 7 (Fully functional provided the .NET Framework 4.8 runtime is installed on the system).</li>
+</ul>
+</p>
+<br>
 <br>
 <p><strong>System & Framework Requirements:</strong><br>
 <ol>
