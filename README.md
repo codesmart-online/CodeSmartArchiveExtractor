@@ -14,24 +14,25 @@
 <br>
 <p><strong>Supported File Types and Formats</strong><br>
 <ul>
-    <li>ZIP (.zip)</li>
     <li>RAR (.rar)</li>
+    <li>ZIP (.zip)</li>
     <li>7-Zip (.7z)</li>
-    <li>GZip (.gz)</li>
-    <li>XZ (.xz)</li>
     <li>TAR (.tar)</li>
-    <li>TAR.GZ (.tar.gz, .tgz)</li>
-    <li>TAR.XZ (.tar.xz, .txz)</li>
-
+    <li>GZIP (.gz)</li>
+    <li>XZ (.xz)</li>
+    <li>BZIP2 (.bz2)</li>
+    <li>TAR+GZIP (.tar.gz, .tgz)</li>
+    <li>TAR+XZ (.tar.xz, .txz)</li>
+    <li>TAR+BZIP2 (.tar.bz2, .tbz2, .tbz)</li>
 </ul>
 <p>Multi-part archive support:</p>
 <ul>
-    <li>archive.part1.rar</li>
-    <li>archive.part01.rar</li>
-    <li>archive.001</li>
-    <li>archive.z01</li>
-    <li>archive.gz.001</li>
-    <li>archive.part1.gz</li>
+    <li>RAR multi-part: archive.rar + .r00, .r01, .r02...</li>
+    <li>RAR multi-part: archive.part1.rar, .part2.rar, ...</li>
+    <li>ZIP multi-part: .zip.001, .z01+.zip, ...</li>
+    <li>7-ZIP multi-part: .7z.001, .002...</li>
+    <li>GZIP multi-part: .gz, .gz.2, .gz.3...</li>
+    <li>Generic multi-part: archive.ext.001, .002, .003...</li>
 </ul>
 <p>Supports password protected archives</p>
 </p>
