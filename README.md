@@ -12,7 +12,7 @@
 </ul>
 </p>
 <br>
-<p><strong>Supported File Types and Formats</strong><br>
+<p><strong>Supported File Types and Formats:</strong><br>
 <ul>
     <li>RAR (.rar)</li>
     <li>ZIP (.zip)</li>
