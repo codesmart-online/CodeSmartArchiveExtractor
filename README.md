@@ -1,6 +1,6 @@
 <p><strong>CodeSmartArchiveExtractor</strong> (aka. CodeSmart Archive Extractor) is a completely free and lightweight Windows app, designed to handle multi-format archive extractions (in batch, if needed), scan source directories, process password lists, and automatically manage archive workflows with nested extraction and auto-rename capabilities. No need to install the app, just download and run!</p>
 <br>
-<img width="550" alt="" src="https://github.com/user-attachments/assets/831e7038-18e9-4144-a666-1d5c9203c56c" />
+<img width="550" alt="" src="https://github.com/user-attachments/assets/50dce974-586d-4df5-8a20-7db7b190fd81" />
 <br><br>
 <p><strong>App Usage:</strong><br>
 <ul>
