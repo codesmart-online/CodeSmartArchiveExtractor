@@ -4,7 +4,7 @@
 <br><br>
 <p><strong>App Usage:</strong><br>
 <ul>
-    <li>Select or drag-and-drop a source folder or archive files into the application.</li>
+    <li>Select or drag-and-drop a source folder(s) or archive file(s) into the application.</li>
     <li>Specify your destination folder path for the extracted contents.</li>
     <li>Optionally provide a text file containing passwords and configure checkboxes for nested extraction, deletion after extraction, or auto-renaming.</li>
     <li>Click the "Start Extraction" button to begin processing the archives.</li>
